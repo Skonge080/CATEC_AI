@@ -1,0 +1,7 @@
+llama-index-core
+llama-index-embeddings-fastembed
+llama-index-vector-stores-qdrant
+llama-index-llms-ollama
+llama-index-llms-openai
+qdrant-client
+fastembed
